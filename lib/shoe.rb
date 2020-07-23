@@ -8,6 +8,6 @@ class Shoe
  end
 
  def cobble
-   puts "the shoe has been repaired"
+   puts "Your shoe id as good as new!"
  end
 end
